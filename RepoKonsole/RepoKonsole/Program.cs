@@ -14,7 +14,7 @@ namespace RepoKonsole
 
             //Änderung für einen Branch
 
-            //Meine Änderung ist Kloiber
+            //Meine Änderung ist Mastermind
         }
     }
 }
