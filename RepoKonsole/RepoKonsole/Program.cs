@@ -15,6 +15,8 @@ namespace RepoKonsole
             //Änderung für einen Branch
 
             //Meine Änderung ist Mastermind
+
+            //Ich bin der Mastermind
         }
     }
 }
