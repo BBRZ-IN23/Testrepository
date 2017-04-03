@@ -16,7 +16,7 @@ namespace RepoKonsole
 
             //Meine Änderung ist Mastermind
 
-            //Ich bin der Mastermind
+            //Ich bin Kloiber
         }
     }
 }
